@@ -1,0 +1,43 @@
+﻿@model IEnumerable<EIMS.DAL.Models.Course>
+@{
+    ViewData["Title"] = "Courses";
+}
+
+<h2>Course List</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Create New Course</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Course Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (!Model.Any())
+        {
+                <tr><td colspan="3" class="text-center">No courses available.</td></tr>
+        }
+        else
+        {
+            int index = 1;
+            foreach (var course in Model)
+            {
+                        <tr>
+                            <td>@index</td>
+                            <td>@course.CourseName</td>
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@course.Id" class="btn btn-warning btn-sm">Edit</a>
+                                <a asp-action="Delete" asp-route-id="@course.Id" class="btn btn-danger btn-sm">Delete</a>
+                            </td>
+                        </tr>
+                index++;
+            }
+        }
+    </tbody>
+</table>
+

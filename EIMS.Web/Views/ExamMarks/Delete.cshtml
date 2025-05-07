@@ -1,0 +1,22 @@
+﻿@model EIMS.DAL.Models.ExamMark
+
+@{
+    ViewData["Title"] = "Delete Exam Marks";
+}
+
+<h2>Delete Exam Marks</h2>
+
+<p>Are you sure you want to delete this record?</p>
+
+<div>
+    <strong>Student:</strong> @Model.Student.Name <br />
+    <strong>Course:</strong> @Model.Course.CourseName <br />
+    <strong>MCQ:</strong> @Model.MCQ <br />
+    <strong>Written:</strong> @Model.Written <br />
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
