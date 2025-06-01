@@ -39,7 +39,7 @@ Education Institute Management System
 - UnitTests/ # Unit test project
 - Program.cs / Startup.cs
 ## Screenshots
-![App Screenshot](https://media-hosting.imagekit.io/2efc45a8009840af/Student%20list.png?Expires=1841243711&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=OTMUhlcXAMUnXzrPAkSi-YePBetE9n~W-VwTv27SqzHpL0NnJbLwNv6tOfPYa9a3mcGszk~pqEVVSNOhZyLk7rEE-~hXOoZoxQyOkCVtjghwnKZyv3jNC0XPIuORoKe74OpIuKB4751F9fARwtytoIgTxkwKXXc9IZDLnVpkN90TN4e3ot4tbNhIS9XaJ1E94ydvqlxUS0nnuBJZqLSOZP0BjTpWc9Ju6UCwOBOzlGeaFFEARVhz-2tWUJMwZZtelE6dYRo1pU7OAFDmRMStkf9mzWYbTOIsY6E5xzNt~q~gJa1CiFR1yFzFarMwfY3Vp-XX9pZ6B9IFugqr7WtVxA__)
+![Course List](https://github.com/Maidul771/Education-Institute-Management-System/blob/afd76ad942e66637e3529ffc547c6803964ed82c/Student%20list.png)
 
 ![App Screenshot](https://media-hosting.imagekit.io/b229821e404f48c1/Course%20list.png?Expires=1841243711&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=3FCU5lpS8UXb3CRLiyONpUsuh3pQ2U892yi4VzCa7sJoi2lwqJ7irxQc~JWDzxIfGTmh5AHnBHibKc3TQxYibNUNBqj9Xfavp1TDhX4iMHH2sUR3xDpf0ovvaVfDuALChbOIugAkRz-714uK2SszBkHW9CssgLTLMEDPT~Z1Tlz~Gy4UCNTsOnAn-nuDNS7hibohXdaN7HtcNmF6lE27c8hvvhdd7GDnQMLViYoQRvdSgRcMr1Qk8ysKG6jnn6H6qKTcoTlXgXfkCnHxO8zLwNtX0kHskA2ChtdUTdKifBvWPvTV0m7pGsGTLwWYHySqt389mltJ53N0vIlWPmFhKw__)
 
