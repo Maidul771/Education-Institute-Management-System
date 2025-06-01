@@ -43,7 +43,7 @@ Education Institute Management System
 
 ![Student List](https://github.com/Maidul771/Education-Institute-Management-System/blob/7510b0984013504bbe7adb533975b23adb5b5e8a/Student%20list.png)
 
-![App Screenshot](https://media-hosting.imagekit.io/923daab4da7c411e/Exam%20Marks.png?Expires=1841243711&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=NZnGzKV62asSAZiz68zH3n7MuFfBSDTTAL25vNd4mg2fW1U2hsr4gV-PfRBrBt0RHYrCWVUFZdj30izfN6Kw2KlrwOyJmZ8rRtvgyUeREcALQklhvPgHCFU-nMQ0FAigauvTXOWw85zP3idM9u6PeEor-IhliS~-U9eftJXoaKcvO6sM~gpU9QD7gBX9EMcSJJsh17EACU~Xz40AUnowU7M7eljcmPcOudw5tJ8AdhN1Uzn8UfK7hkyENPuRrsSKhWF79cZBOOWzwOlcOHNj5FprTDlW94Cad6cuMNRsAUZCFemWOyjvnwH6NtfG~y9v7Mtyxzvozb3696R~U2a55w__)
+![Exam Marks](https://github.com/Maidul771/Education-Institute-Management-System/blob/4015a991c7288bec2b9326b36e9a2d9fbbb5434a/Exam%20Marks.png)
 
 ![App Screenshot](https://media-hosting.imagekit.io/28360cf474b648af/Create%20exam%20marks.png?Expires=1841243923&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=JWlEKhQOXT-Oh-Fgr6cS5hpi9OkkEGGz4R-zoEwNVAiCbsqOLHlmEOTmnih0NBP2YQR~0lOIoJTiLuhboOluMAJnz0u7z0lMRZ-8-rBPUNAzpWJyKSqLnxxU~qvRBOmb-VVxXBMrQoUrQ2AmXO-2zN2n6YLyURfF6Mwky86Fsn5YsiCRjCj8~s8n0ijE8PnF~7YkKd0fXHTCwzCJSimDookffpYptCvKJRZ0WDfNpMGfWGMeYJ41g3genXCoSQ965yeywoZvDda9cqrWZaSElsL7JGm7s9cNcs7JhrCfH7-Y7c1LF9vKuljr~6LsXdbWXc2-M5AuIMOEQKQbGsUqJQ__)
 
