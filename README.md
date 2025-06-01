@@ -39,7 +39,7 @@ Education Institute Management System
 - UnitTests/ # Unit test project
 - Program.cs / Startup.cs
 ## Screenshots
-![Course List](https://github.com/Maidul771/Education-Institute-Management-System/blob/afd76ad942e66637e3529ffc547c6803964ed82c/Student%20list.png)
+![Course List](https://github.com/Maidul771/Education-Institute-Management-System/blob/245d8de0ade236ae658a7e6d78b829c70365a199/Course%20list.png)
 
 ![Student List](https://github.com/Maidul771/Education-Institute-Management-System/blob/7510b0984013504bbe7adb533975b23adb5b5e8a/Student%20list.png)
 
