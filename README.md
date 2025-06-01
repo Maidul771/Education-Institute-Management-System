@@ -51,5 +51,5 @@ Education Institute Management System
 
 ![Delete Exam Marks](https://github.com/Maidul771/Education-Institute-Management-System/blob/82e506451fcc71c984f6b6959fceb5b482f6630d/delete%20exam%20marks.png)
 
-![App Screenshot](https://media-hosting.imagekit.io/ebc4ac66b6184f68/Database.png?Expires=1841244122&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=RofOtgHk~eT2txI4MHi0TTvydDORyzSTy9Sa8lkKWQ1b4qh0Mcf6cs9fa9YxkfsHzLpJ87xUMBnUysnynDuQqCs1zOAlZP~rjS~n~5I2vG1NfPAU9aovcb-Cf~RbFMakXvpSJrofn~LLi7k1jNtYBs7QPuoAsDzmVPhwU7F7RkjrRQC29gWfONPbnzHw638J~XrUOrixcz7MnQ~gYWkPbUp~sGYMRpLgLskOSNkb5w~I2dLdJHhvkNrChx5JY3Rd9UJYGH-USeqCEI9D0v2cpDHZQvkVaMmq9CTvEpbucHZG~N9tnmzWCj1zwbVYImjw--ws-E6FsEJWW8Q71d9e6A__)
+![Database](https://github.com/Maidul771/Education-Institute-Management-System/blob/f1617e0527f4ff43ee90bfdba9d005fb86e44a04/Database.png)
 
